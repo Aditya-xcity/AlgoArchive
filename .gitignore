@@ -1,0 +1,55 @@
+```gitignore
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Build folders
+build/
+bin/
+dist/
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# Dev-C++
+*.dev
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# CLion / IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+```
